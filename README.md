@@ -1,3 +1,3 @@
 # hello-world
 
-Refreshing on github terminologies and exploring the IntelliJ integration. Good so far.
+Refreshing on github terminologies and exploring the IntelliJ integration  as well as conflicts. Good so far. 
